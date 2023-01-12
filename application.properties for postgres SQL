@@ -1,4 +1,4 @@
-spring.datasource.url= jdbc:postgresql://localhost:5432/postgres
+spring.datasource.url= jdbc:postgresql://localhost:5432/dbName
 spring.datasource.username=abcd
 spring.datasource.password=abcd
 
